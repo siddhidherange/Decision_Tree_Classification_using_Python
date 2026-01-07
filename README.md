@@ -47,7 +47,6 @@ Key concepts explored:
   - Feature selection
   - Train-test split
 
-*(Dataset details can be updated here if required)*
 
 ---
 
