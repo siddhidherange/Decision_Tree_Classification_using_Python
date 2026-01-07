@@ -1,2 +1,27 @@
-# Decision_Tree_Classification_using_Python
-This project demonstrates the implementation of a Decision Tree machine learning algorithm using Python. It covers the complete workflow including data preprocessing, model training, evaluation, and visualization. The project helps in understanding core concepts such as entropy, Gini index, information gain, and overfitting in decision trees.
+# 🌳 Decision Tree Classification using Python
+
+## 📌 Overview
+This project focuses on implementing a **Decision Tree Classifier** using Python.  
+Decision Trees are supervised machine learning algorithms used for both **classification and regression** tasks.
+
+The project explains:
+- How decision trees split data
+- Difference between **Entropy** and **Gini Index**
+- How overfitting occurs in decision trees
+- Model evaluation and visualization
+
+This notebook is ideal for **students, beginners in ML, and academic submissions**.
+
+---
+
+## 🛠️ Technologies Used
+- Python 🐍
+- Jupyter Notebook / Google Colab
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 📂 Project Structure
